@@ -23,7 +23,7 @@ header{
 .navi a{
     font-size: 1.7em;
     text-decoration: none;
-    color: #eab600;
+    color: #03d7fc;
     align-items: center;
     padding-right: 3em;
    
@@ -38,7 +38,7 @@ header{
     margin-top:6vw;
 }
 .bod{
-    background-color: #eab600;
+    background-color: #03d7fc;
 }
 .tintro{
     color: #ffffff;
@@ -91,7 +91,7 @@ footer{
   
 }
 .aa{
-    color: #eab600;
+    color: #03d7fc;
     font-size:1.5em;
     padding-right: 1em;
 }
@@ -102,7 +102,7 @@ footer{
     padding-right:80vw;
 }
 .fa {
-    color: #eab600;
+    color: #03d7fc;
     text-decoration: none;
     padding-right: 0.8em;
     padding-top: 0.2em;
@@ -110,7 +110,7 @@ footer{
     
 }
 .bg{
-    background-color: #eab600;
+    background-color: #03d7fc;
 }
 
   .img2{
