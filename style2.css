@@ -23,13 +23,13 @@ header{
 .navi a{
     font-size: 1.3em;
     text-decoration: none;
-    color: #eab600;
+    color: #0f9dda;
     align-items: center;
     padding-right: 2em;
    
 }
 .navi a:hover{
-    color: rgb(255, 146, 3);
+    color: rgb(24, 2, 189);
 }
 .intro{
     color: #ffffff;
@@ -38,7 +38,7 @@ header{
     margin-top:19vw;
 }
 .bod{
-    background-color: #eab600;
+    background-color:#0f9dda;
 }
 .tintro{
     color: #ffffff;
@@ -76,11 +76,11 @@ footer{
     width: 100%;
     position: absolute;
     background-color: #ffffff;
-    color: #eab600;
+    color: #0f9dda;
   
 }
 .aa{
-    color: #eab600;
+    color: #0f9dda;
     font-size:1em;
     padding-right: 0em;
 }
@@ -91,7 +91,7 @@ footer{
     padding-right:70vw;
 }
 .fa {
-    color: #eab600;
+    color: #0f9dda;
     text-decoration: none;
     padding-right: 1.1em;
     padding-top: 0.2em;
@@ -99,7 +99,7 @@ footer{
     
 }
 .bg{
-    background-color: #eab600;
+    background-color: #0f9dda;
 }
 
 .img2{
